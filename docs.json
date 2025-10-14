@@ -44,6 +44,15 @@
               "ai-tools/claude-code",
               "ai-tools/windsurf"
             ]
+          },
+          {
+            "group": "Task Force Hightower",
+            "pages": [
+              "field-handbook/about",
+              "field-handbook/contents",
+              "philosophy",
+              "introduction"
+            ]
           }
         ]
       },
