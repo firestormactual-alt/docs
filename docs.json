@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Task Force Hightower",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#2f3c65",
+    "light": "#a6a6a6",
+    "dark": "#1f1d1e"
   },
   "favicon": "/favicon.svg",
   "navigation": {
