@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "willow",
   "name": "Task Force Hightower",
   "colors": {
     "primary": "#2f3c65",
