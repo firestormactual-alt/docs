@@ -106,8 +106,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Main Site",
+      "href": "https://taskforcehightower.netlify.app/"
     }
   },
   "contextual": {
