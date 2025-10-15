@@ -14,18 +14,15 @@
         "tab": "Guides",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "About the Field Handbook (FH)",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "field-handbook/about/about"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Introduction to Task Force Hightower",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "field-handbook/introduction/welcome"
             ]
           },
           {
