@@ -8,6 +8,10 @@
     "dark": "#1f1d1e"
   },
   "favicon": "/favicon.svg",
+  "banner": {
+    "content": "UNCLASSIFIED",
+    "dismissable": "false"
+  },
   "navigation": {
     "tabs": [
       {
