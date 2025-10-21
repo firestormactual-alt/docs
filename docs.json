@@ -9,7 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "banner": {
-    "content": "UNCLASSIFIED",
+    "content": "UNCLASSIFIED\n - PUBLIC INFORMATION SYSTEM",
     "dismissable": "false"
   },
   "navigation": {
