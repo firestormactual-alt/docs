@@ -9,7 +9,7 @@
   },
   "favicon": "/favicon.svg",
   "banner": {
-    "content": "UNCLASSIFIED\n - PUBLIC INFORMATION SYSTEM",
+    "content": "UNCLASSIFIED - DO NOT POST CUI",
     "dismissable": "false"
   },
   "navigation": {
@@ -94,8 +94,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/hightower-logo-light.svg",
+    "dark": "/logo/hightower-logo-dark.svg"
   },
   "navbar": {
     "links": [
